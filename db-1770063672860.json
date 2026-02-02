@@ -201,52 +201,6 @@
       "status": "pending",
       "date": "2026-02-02",
       "id": "hFOpDVh"
-    },
-    {
-      "userId": "user@riwi.com",
-      "items": [
-        {
-          "name": "Papas Fritas",
-          "price": 8000
-        },
-        {
-          "name": "Papas Fritas",
-          "price": 8000
-        },
-        {
-          "name": "Papas Fritas",
-          "price": 8000
-        }
-      ],
-      "total": 24000,
-      "status": "pending",
-      "date": "2026-02-02",
-      "id": "TjCnMG9"
-    },
-    {
-      "userId": "user@riwi.com",
-      "items": [
-        {
-          "name": "Hamburguesa Clásica",
-          "price": 25000
-        },
-        {
-          "name": "Papas Fritas",
-          "price": 8000
-        },
-        {
-          "name": "Pizza Pepperoni",
-          "price": 32000
-        },
-        {
-          "name": "Limonada de Coco",
-          "price": 9000
-        }
-      ],
-      "total": 74000,
-      "status": "pending",
-      "date": "2026-02-02",
-      "id": "W1LNGu4"
     }
   ]
 }
