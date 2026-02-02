@@ -29,3 +29,59 @@ body {
     object-fit: cover;
     border-radius: 8px 8px 0 0;
 }
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f1f3f5;
+}
+
+.login-card {
+    width: 100%;
+    max-width: 450px;
+    border-radius: 20px;
+}
+
+.icon-circle {
+    width: 48px;
+    height: 48px;
+    background-color: #e0ffee; /* Fondo suave del logo */
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-group-text {
+    border-radius: 8px 0 0 8px;
+    padding-right: 0;
+}
+
+.form-control, .form-select {
+    border-radius: 0 8px 8px 0;
+    font-size: 14px;
+    padding: 10px;
+    border-color: #dee2e6;
+}
+
+.form-control::placeholder {
+    color: #adb5bd;
+}
+
+/* El botón verde exacto de la imagen */
+.btn-signin {
+    background-color: #00FF66;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
+
+.btn-signin:hover {
+    background-color: #00e65c;
+    color: white;
+}
+
+.simulation-text {
+    font-size: 11px;
+    letter-spacing: 1px;
+}

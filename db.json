@@ -31,6 +31,90 @@
       "name": "Papas Fritas",
       "price": 8000,
       "image": "https://images.unsplash.com/photo-1573016608244-7d5ef1974955?w=500"
+    },
+    {
+      "id": "3",
+      "name": "Pizza Pepperoni",
+      "price": 32000,
+      "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=500"
+    },
+    {
+      "id": "4",
+      "name": "Tacos al Pastor",
+      "price": 18000,
+      "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=500"
+    },
+    {
+      "id": "5",
+      "name": "Sushi Roll Filadelfia",
+      "price": 28000,
+      "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=500"
+    },
+    {
+      "id": "6",
+      "name": "Ensalada César",
+      "price": 22000,
+      "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?w=500"
+    },
+    {
+      "id": "7",
+      "name": "Hot Dog Americano",
+      "price": 12000,
+      "image": "https://images.unsplash.com/photo-1541214113241-21578d2d9b62?w=500"
+    },
+    {
+      "id": "8",
+      "name": "Malteada de Chocolate",
+      "price": 10000,
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500"
+    },
+    {
+      "id": "9",
+      "name": "Brownie con Helado",
+      "price": 14000,
+      "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=500"
+    },
+    {
+      "id": "10",
+      "name": "Burrito de Pollo",
+      "price": 21000,
+      "image": "https://images.unsplash.com/photo-1584031036380-3fb6f23e7175?w=500"
+    },
+    {
+      "id": "11",
+      "name": "Pasta Carbonara",
+      "price": 26000,
+      "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=500"
+    },
+    {
+      "id": "12",
+      "name": "Sopa de Tomate",
+      "price": 15000,
+      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=500"
+    },
+    {
+      "id": "13",
+      "name": "Club Sandwich",
+      "price": 19000,
+      "image": "https://images.unsplash.com/photo-1528198623871-2d3a968615bb?w=500"
+    },
+    {
+      "id": "14",
+      "name": "Costillas BBQ",
+      "price": 35000,
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500"
+    },
+    {
+      "id": "15",
+      "name": "Nachos Supremos",
+      "price": 23000,
+      "image": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=500"
+    },
+    {
+      "id": "16",
+      "name": "Limonada de Coco",
+      "price": 9000,
+      "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=500"
     }
   ],
   "orders": [
@@ -41,34 +125,9 @@
         {
           "name": "Hamburguesa Clásica",
           "price": 25000
-        },
-        {
-          "name": "Papas Fritas",
-          "price": 8000
         }
       ],
-      "total": 33000,
-      "status": "pending",
-      "date": "2026-02-02"
-    },
-    {
-      "id": "4d36",
-      "userId": "212f",
-      "items": [
-        {
-          "name": "Hamburguesa Clásica",
-          "price": 25000
-        },
-        {
-          "name": "Hamburguesa Clásica",
-          "price": 25000
-        },
-        {
-          "name": "Hamburguesa Clásica",
-          "price": 25000
-        }
-      ],
-      "total": 75000,
+      "total": 25000,
       "status": "pending",
       "date": "2026-02-02"
     }
